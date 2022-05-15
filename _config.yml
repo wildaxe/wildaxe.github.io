@@ -1,8 +1,16 @@
 theme: jekyll-theme-architect
 
-title: AWS Architecture Consulting and DevOps
+title: AWS Consulting
+
+description: Cloud Architecture and DevOps
 
 author: Yuri Nemchin
 
-social-network-links:
-  email: "nemchin@gmail.com"
+github:
+  is_project_page: false
+  
+site:
+  github:
+    owner_url: https://www.techops.space
+    is_project_page: False
+    is_user_page: False
