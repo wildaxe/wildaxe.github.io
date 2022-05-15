@@ -1,5 +1,3 @@
-## AWS Architecture Consulting and DevOps
-
 My name is Yuri and I help customers design, architect, build, migrate, and manage their workloads and applications on AWS platform.
 
 ### AWS Solutions Architecture
